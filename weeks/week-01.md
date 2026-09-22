@@ -1,4 +1,4 @@
-<img width="497" height="904" alt="w01" src="https://github.com/user-attachments/assets/e2a11c3e-1ee4-41f1-92cf-3f71b6891467" />
+
 ---
 title: "W01｜田野從哪裡開始？"
 permalink: /weeks/week-01/
@@ -11,7 +11,7 @@ permalink: /weeks/week-01/
 上高鐵時急促又緊張，趕時間卻又因很多人所以不確定到底能不能順利上車。擠上車後又完全沒辦法走進車廂，我覺得又擠又緊張，還聞到一點汗味，很不舒服。
 ## TRACE｜痕跡
 
-
+<img width="497" height="904" alt="w01" src="https://github.com/user-attachments/assets/e2a11c3e-1ee4-41f1-92cf-3f71b6891467" />
 
 ## FRICTION｜摩擦
 
