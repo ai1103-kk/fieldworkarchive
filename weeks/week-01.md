@@ -25,4 +25,3 @@ permalink: /weeks/week-01/
 
 我會想每週都在同時間跑去坐同一班高鐵，把進站時間當作操作變因，看看我到底要幾點到才能在新竹站進入自由座的車廂並找到位置。
 
-![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
